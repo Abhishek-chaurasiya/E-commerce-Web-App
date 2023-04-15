@@ -44,3 +44,38 @@ export const sliderItems = [
       cat:"men"
     },
   ];
+
+   export const popularProducts = [
+    {
+      id:1,
+      img:"https://img.freepik.com/free-photo/shirt_1203-8194.jpg?w=740&t=st=1681544508~exp=1681545108~hmac=3214195fde52f740cac28d9608fe95395cdac12f9625befb8ad830bd0aa8b65d",
+    },
+    {
+      id:2,
+      img:"https://img.freepik.com/free-photo/brown-basic-cotton-t-shirt-presented-rustic-interior-with-vintage-leather-play-balls-top_346278-1674.jpg?w=740&t=st=1681544209~exp=1681544809~hmac=e76ca1c5ae7f397989871ac3ca991e8d8cdf0b7dc5f0015e32ef48f84d828a7e",
+    },
+    {
+      id:3,
+      img:"https://img.freepik.com/free-photo/pink-sweater-front_125540-746.jpg?w=740&t=st=1681544596~exp=1681545196~hmac=b88188c959c9c330892be974f8323fd4ab27f23747a4871c2a5dc2fba1903dd8",
+    },
+    {
+      id:4,
+      img:"https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing_158538-4909.jpg?w=740&t=st=1681544550~exp=1681545150~hmac=471c42e044fd0320e7709630b20c78ed08d91667be7ad215a5e08c5eaea8b86b",
+    },
+    {
+      id:5,
+      img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+    },
+    {
+      id:6,
+      img:"https://img.freepik.com/free-psd/woman-holding-leafy-white-pillow-mockup_53876-115776.jpg?w=740&t=st=1681544824~exp=1681545424~hmac=7220fe1afc3484729a18123093f72d5bd557ad6cbab45021a845b275ad6c33ab",
+    },
+    {
+      id:7,
+      img:"https://img.freepik.com/free-photo/pretty-woman-wearing-tshirt_1303-14611.jpg?w=740&t=st=1681544915~exp=1681545515~hmac=b337ef0b15607f0959e432df6a044989e9d17ef6a1be7aa26ae966ac220d2dd1",
+    },
+    {
+      id:8,
+      img:"https://img.freepik.com/free-photo/shirt-hanger-with-green-background_23-2150264157.jpg?w=740&t=st=1681545098~exp=1681545698~hmac=e3b97377174f081d04e154ee9744da317bddb64daabf150f9163147612062e98",
+    },
+  ]
